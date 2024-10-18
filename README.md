@@ -52,10 +52,12 @@ while True:
 ## OUTPUT:
 
 ### CLIENT
-![Uploading Screenshot 2024-10-18 040831.png…]()
+![Screenshot 2024-10-18 040831](https://github.com/user-attachments/assets/82b0cc1c-2b09-4e18-a0cc-ff071076d86f)
+
 
 ### SERVER
-![Uploading Screenshot 2024-10-18 040855.png…]()
+![Screenshot 2024-10-18 040855](https://github.com/user-attachments/assets/71734207-d1a6-4eda-87b8-e539aa5a5952)
+
 
 
 ## RESULT:
